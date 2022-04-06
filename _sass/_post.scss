@@ -23,9 +23,16 @@
 
 .related-posts {
   padding-left: 0px;
-  list-style: none;
+  display: block;
 }
 
 .related-posts a {
   text-decoration: none;
+}
+
+.post {
+  height: 30px;
+  display: flex;
+  flex-flow: column nowrap;
+  padding-right: 30px;
 }

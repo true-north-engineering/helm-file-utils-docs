@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+If you are having any problems, any questions or suggestions, feel free to contact us via [mail](mailto:l.info@true-north.hr), or [file a GitHub issue](https://github.com/true-north-engineering/helm-file-utils/issues)
