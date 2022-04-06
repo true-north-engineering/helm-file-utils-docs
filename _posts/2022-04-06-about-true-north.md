@@ -3,7 +3,7 @@ layout: post
 title: "About True North"
 author: "Mihael Rodek"
 categories: journal
-tags: [documentation,sample]
+tags: [true-north,sample]
 image: TN_logo.jpg
 ---
 

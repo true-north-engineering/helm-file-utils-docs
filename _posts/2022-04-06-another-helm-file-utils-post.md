@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About Helm File utils"
+title: "Another Helm File utils"
 author: "Mihael Rodek"
 categories: journal
 tags: [helm,helm-file-utils]
 image: helm.png
 ---
 
-Hi there! Welcome to first post on this blog related to Helm file utils.
+Just testing tags...

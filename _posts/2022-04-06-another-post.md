@@ -3,6 +3,6 @@ layout: post
 title: "Another post"
 author: "Mihael Rodek"
 categories: journal
-tags: [documentation,sample]
+tags: [helm]
 image: building.jpeg
 ---
