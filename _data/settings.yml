@@ -9,7 +9,7 @@ google-ID: 'G-MB8JLN4696'
 menu:
 - {name: 'About Helm File Utils',   url: 'about-futl.html'}
 - {name: 'About True North',   url: 'about-tn.html'}
-- {name: 'Archived posts', url: 'blog.html'}
+- {name: 'Archived Posts', url: 'archive.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -25,6 +25,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'Here are some related posts you may enjoy:'
+related_posts: 'More related posts:'
 
 post_date_prefix: 'Written on'

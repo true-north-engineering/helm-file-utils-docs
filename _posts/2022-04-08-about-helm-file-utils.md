@@ -1,8 +1,12 @@
 ---
-layout: page
-title: About Helm File Utils
-permalink: /about-futl
+layout: post
+title: "About Helm File utils"
+author: "Mihael Rodek"
+categories: journal
+tags: [helm,helm-file-utils]
+image: helm.png
 ---
+
 
 A Helm downloader plugin that supports different file manipulations, conversions, encoders and decoders.
 
@@ -298,3 +302,4 @@ For more examples please visit [this](EXAMPLES.md) page or even better - check [
 ## Contribution guide
 
 Contributions are more than welcome. If you would like to contribute to this plugin please see [these instructions](CONTRIBUTION.md) that will help you to develop the plugin.
+
