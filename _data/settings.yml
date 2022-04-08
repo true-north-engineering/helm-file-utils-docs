@@ -1,13 +1,14 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'helm-file-utils'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'G-MB8JLN4696'
 
 menu:
-- {name: 'About True North',   url: 'about.html'}
+- {name: 'About Helm File Utils',   url: 'about-futl.html'}
+- {name: 'About True North',   url: 'about-tn.html'}
 - {name: 'Archived posts', url: 'blog.html'}
 - {name: 'Contact', url: 'contact.html'}
 
@@ -24,6 +25,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Here are some related posts you may enjoy:'
 
 post_date_prefix: 'Written on'
