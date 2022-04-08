@@ -130,7 +130,7 @@ one Reader and **any number** of Transformers separated with **+** sign.
 Order of transformation evaluation is from right to left, which forces Reader to always execute first.
 
 
-![Order of file transformations](diagrams/diagram.png)
+![Order of file transformations](../assets/img/diagram.png)
 
 
 ### Readers
