@@ -1,11 +1,11 @@
 /*
-Error: Invalid CSS after "...ns", sans-serif": expected "{", was ";"
+Error: Invalid CSS after "...ans" sans-serif": expected "{", was ";"
         on line 4 of main.scss
 
 1: ---
 2: ---
 3: 
-4: $sans-serif-font-family: "Quattrocento Sans", sans-serif;
+4: $sans-serif-font-family: "Quattrocento Sans" sans-serif;
 5: $serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
 6: $code-font-family:       "Source Code Pro", monospace;
 7: 
@@ -37,4 +37,4 @@ main.scss:4
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"...ns\", sans-serif\": expected \"{\", was \";\"\A         on line 4 of main.scss\A \A 1: ---\A 2: ---\A 3: \A 4: $sans-serif-font-family: \"Quattrocento Sans\", sans-serif;\A 5: $serif-font-family:      \"PT Serif\", Georgia, \"Times New Roman\", serif;\A 6: $code-font-family:       \"Source Code Pro\", monospace;\A 7: \A 8: $body-color:             #505050;\A 9: $link-color:             black;"; }
+  content: "Error: Invalid CSS after \"...ans\" sans-serif\": expected \"{\", was \";\"\A         on line 4 of main.scss\A \A 1: ---\A 2: ---\A 3: \A 4: $sans-serif-font-family: \"Quattrocento Sans\" sans-serif;\A 5: $serif-font-family:      \"PT Serif\", Georgia, \"Times New Roman\", serif;\A 6: $code-font-family:       \"Source Code Pro\", monospace;\A 7: \A 8: $body-color:             #505050;\A 9: $link-color:             black;"; }
