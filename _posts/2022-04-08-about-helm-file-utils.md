@@ -191,7 +191,7 @@ Example of simple usage:
 !futl git_https://true-north:pat@github.com/true-north-engineering/helm-file-utils.git tests/filetest/inputfile3.txt#develop
 ```
 
-More examples of using git_https can be found in [git_https](tests/git_https/input/) test folder.
+More examples of using git_https can be found in [git_https](https://github.com/true-north-engineering/helm-file-utils/tree/main/tests/git_https/input/) test folder.
 
 #### Ssh
 
@@ -212,7 +212,7 @@ _Hostname_ - host where ssh is hosted, can be IP or domain name\
 _Port_ - optional field, allows user to change port where ssh is hosted, if not provided, default is 22\
 _Path_ - path to file or directory\
 
-More examples of using ssh can be found in [ssh](tests/ssh/input/) test folder.
+More examples of using ssh can be found in [ssh](https://github.com/true-north-engineering/helm-file-utils/tree/main/tests/ssh/input/) test folder.
 
 ### Transformers
 Transformers are used to do various transformations over the file.\
@@ -293,7 +293,7 @@ sources:
 version: 0.1.0
 ```
 
-For more examples please visit [this](EXAMPLES.md) page or even better - check [tests](tests/) folder.
+For more examples please visit [this](https://github.com/true-north-engineering/helm-file-utils/blob/main/EXAMPLES.md) page or even better - check [tests](https://github.com/true-north-engineering/helm-file-utils/tree/main/tests/) folder.
 
 
 ## Issues
@@ -301,5 +301,5 @@ For more examples please visit [this](EXAMPLES.md) page or even better - check [
 
 ## Contribution guide
 
-Contributions are more than welcome. If you would like to contribute to this plugin please see [these instructions](CONTRIBUTION.md) that will help you to develop the plugin.
+Contributions are more than welcome. If you would like to contribute to this plugin please see [these instructions](https://github.com/true-north-engineering/helm-file-utils/blob/main/CONTRIBUTION.md) that will help you to develop the plugin.
 
