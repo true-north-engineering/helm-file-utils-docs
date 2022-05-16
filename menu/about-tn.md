@@ -4,17 +4,17 @@ title: About True North
 permalink: /about-tn
 ---
 
-Mi smo True North. 
+We are True North.
 
-Radimo consulting, servisne te product development projekte za domaće i strane klijente. 
-Mlada smo, technology-driven software & AI kompanija, fokusirana na cloud-native razvoj te dizajn modernih distribuiranih 
-enterprise sustav.
+We provide IT consulting, services and product development to our clients.
+We are a young, technology-driven software & AI company, focused on cloud-native development
+and deisgning modern distributed enterprise systems.
 
-U True North-u spajamo software engineering i analizu podataka, te vodimo naše klijente kroz transformacijske i modernizacijske 
-projekte kako bi ih pripremili za budućnost koja dolazi. Također, volimo Kubernetes u svim varijantama; 
-bilo u public cloud okolinama kao što su AWS/GCP/IBMCloud/etc. ili on premise, a poprilično smo jaki i u DevOps segmentu. 
-Open-source je ugrađen duboko u naš DNA te sudjelujemo na raznim tech konferencijama kao predavači, volonteri i organizatori. 
-Naš tim se sastoji od iskusnih, battle-tested konzultanata i arhitekata koji su prošli kroz raznorazne izazovne projekte u različitim industrijama. 
+In True North we connect software engineering and data analysis, in order to prepare our clients for the
+future and help them become and remain winners of their respective industries.
+Also, we love Kubernetes whether in public cloud environments like AWS/GCP/IBMCloud/etc. or on premise,
+and we are pretty great at DevOps side of the story. Open-source is embedded deeply in our DNA.
+Our team consists of well experienced, battle-tested consultants and architects that
+love to participate at tech conferences as speakers, volunteers or organizers.
 
-
-No ovo sve je samo dio price, a više o nama možete saznati na našoj stranici: [true-north.hr](https://www.true-north.hr/).
+If you are interested to learn more about us - visit us at [true-north.hr](https://www.true-north.hr/).

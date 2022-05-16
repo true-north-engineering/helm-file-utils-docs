@@ -14,7 +14,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github',     link: 'https://github.com/true-north-engineering'}
+- {icon: 'github',     link: 'https://github.com/true-north-engineering/helm-file-utils'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/company/tn-hr/'}
 - {icon: 'envelope',   link: 'mailto:l.info@true-north.hr'}
 

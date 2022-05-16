@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Helm v0.2 is out!"
+title: "Helm file utils v0.2 is out!"
 author: "Mihael Rodek"
 categories: journal
 tags: [helm, helm-file-utils]
-image: helm.png
+image: futl-v2.png
 ---
 
 We are happy to announce that new major release of Helm File Utils is finally out!

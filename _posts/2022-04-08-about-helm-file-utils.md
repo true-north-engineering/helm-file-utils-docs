@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About Helm File utils"
+title: "About Helm file utils"
 author: "Mihael Rodek"
 categories: journal
 tags: [helm,helm-file-utils]
-image: helm.png
+image: futl.png
 ---
 
 
@@ -210,7 +210,7 @@ y
 _Credentials_ - optional field, allows user to authenticate when connecting via ssh\
 _Hostname_ - host where ssh is hosted, can be IP or domain name\
 _Port_ - optional field, allows user to change port where ssh is hosted, if not provided, default is 22\
-_Path_ - path to file or directory\
+_Path_ - path to file or directory
 
 More examples of using ssh can be found in [ssh](https://github.com/true-north-engineering/helm-file-utils/tree/main/tests/ssh/input/) test folder.
 
